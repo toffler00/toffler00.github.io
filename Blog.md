@@ -1,7 +1,7 @@
-- - -
-layout : page
-title : "Blog"
+---
+layout: post
+title: "Blog"
 author: "toffler"
-permalink : /Blog/
-- - -
+permalink: /Blog/
+---
 # Welcome
