@@ -11,5 +11,5 @@ permalink: /about/
 * Swift, cocoa , iOS
 
 # Contact
-* [5chunwon@gmail.com](5chunwon@gamail.com)
-* [toffler99@naver.com](toffler99@naver.com)
+* [5chunwon@gmail.com](mailto:5chunwon@gamail.com)
+* [toffler99@naver.com](mailto:toffler99@naver.com)
