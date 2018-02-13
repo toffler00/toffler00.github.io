@@ -1,6 +1,7 @@
 - - -
 layout : page
-title : Blog
+title : "Blog"
+author: "toffler"
 permalink : /Blog/
 - - -
 # Welcome
