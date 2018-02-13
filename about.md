@@ -1,9 +1,9 @@
----
+- - - -
 layout: page
 title: About
 author : toffler
 permalink: /about/
----
+- - - -
 # About
 아직은 junior 인 Application Developer
 
