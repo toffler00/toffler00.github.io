@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "DotNote 개인정보처리방침"
+date:   2019-05-13 19:53:51 +0900
+categories: jekyll update
+---
+DotNote 는 사용자의 개인정보일체를 수집하지 않습니다.
